@@ -1,0 +1,9 @@
+{
+  "appId": "com.faims.enterprises",
+  "appName": "FAIMS ONE",
+  "webDir": "www",
+  "server": {
+    "url": "https://ultimate-updated-app.vercel.app",
+    "cleartext": true
+  }
+}
